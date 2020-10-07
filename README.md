@@ -7,8 +7,11 @@ Autenticação sempre foi uma pedra no sapato na hora de controlar isso no front
 
 Nesse vídeo mostro o processo inteiro de autenticação no React Native, desde a chamada à API para o back-end, rotas autenticadas e o storage e compartilhamento de estado entre os componentes.
 
+Veja a masterclass da Rocketseat:
 https://www.youtube.com/watch?v=KISMYYXSIX8
 
+Veja também o post no blog da Rocketseat:
+https://blog.rocketseat.com.br/autenticacao-no-react-native-reactjs-com-context-api-hooks/
 
 ## Sobre projeto
 Projeto desenvolvido durante a aula apresentada acima e adicionado ao meu repositório para futuras consultas.
